@@ -326,24 +326,9 @@ Support is handled as follows:
 
 There is **no guaranteed SLA**, enterprise support contract, or dedicated support team.
 
----
 
-## 📄 License
-
-This project is released under the **MIT License**.
-
-You are free to use, modify, and distribute this project in accordance with the terms of the license.  
-See the `LICENSE` file in the repository root for full details.
+UmmeDua Aslam 
+Social Account GITHUB https://github.com/Umm-e-Dua
 
 ---
 
-## 🌐 Social / Contact
-
-**Afaq Ul Islam**
-
-- **GitHub**: https://github.com/afaqulislam  
-- **LinkedIn**: https://linkedin.com/in/afaqulislam
-- **Twitter(X)**: https://x.com/afaqulislam708 
-- **Email**: afaqulislam707@gmail.com  
-
-For professional collaboration, technical discussions, or project-related communication, email is the preferred contact method.
